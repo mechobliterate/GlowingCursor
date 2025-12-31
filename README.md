@@ -1,6 +1,6 @@
 # GlowingCursor
 
-![Glowing cursor demo](https://i.imgur.com/lIyOCj3.mp4)
+<video src="https://i.imgur.com/lIyOCj3.mp4" controls loop autoplay muted></video>
 
 GlowingCursor is a macOS SwiftUI experiment that replicates the glowing text insertion cursor shown when Dictation is active. The project is primarily an exercise in reverse engineering private AppKit APIs to understand how this effect is implemented internally.
 
