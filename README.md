@@ -139,6 +139,6 @@ struct ContentView: View {
 ```
 
 ## Notes and Warnings
-* This project relies on private AppKit APIs and undocumented notifications.
-* It is not App Store safe and may break across macOS releases.
-* The code is intended for experimentation and learning purposes only.
+- This project relies on private AppKit APIs and undocumented notifications.
+- It is not App Store safe and may break across macOS releases.
+- The code is intended for experimentation and learning purposes only.
